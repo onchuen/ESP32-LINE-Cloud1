@@ -18,7 +18,7 @@ const char* WIFI_SSID = "iPhone";
 const char* WIFI_PASSWORD = "11111111";
 
 // ใส่ URL ของ Render หลัง Deploy เช่น https://esp32-line-cloud.onrender.com
-const char* CLOUD_BASE_URL = "https://esp32-line-cloud.onrender.com";
+const char* CLOUD_BASE_URL = "https://esp32-line-cloud1.onrender.com";
 
 // ต้องตรงกับ DEVICE_KEY ที่ตั้งใน Render Environment
 const char* DEVICE_KEY = "1123";
